@@ -11,10 +11,14 @@
             "id": "fabe61ee29a38bf9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "力学/刚体.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "刚体"
             }
           }
         ]
@@ -150,6 +154,8 @@
   },
   "active": "fabe61ee29a38bf9",
   "lastOpenFiles": [
+    "力学/刚体.md",
+    "力学",
     "README.md",
     "Mechanics力学",
     "Untitled.md"
